@@ -1,2 +1,0 @@
-# sitai
-Assignment
